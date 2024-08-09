@@ -1,0 +1,91 @@
+[16-Jul-2024 18:16:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:16:22 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:18:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:18:31 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:18:34 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:19:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:19:23 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:19:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/user/cartController.php on line 17
+[16-Jul-2024 18:19:25 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/user/cartController.php on line 17
+[16-Jul-2024 18:19:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:19:25 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:19:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:19:47 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:19:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:19:48 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:20:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:20:17 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:20:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:20:45 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:21:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:21:16 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:21:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:21:24 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:22:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:22:21 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:22:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:22:37 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:23:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:23:19 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 18:43:42 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:43:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:43:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:44:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:44:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:44:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:44:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:44:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:44:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:44:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:44:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:44:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:45:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:45:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:45:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:45:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:45:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:46:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:46:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:46:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:47:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:47:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:48:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:48:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:48:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:48:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:48:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:48:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:48:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:51:42 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:52:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:52:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:52:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:54:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:54:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:54:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:54:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 16
+[16-Jul-2024 18:54:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: day in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:54:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:59:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:59:38 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 18:59:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 19:00:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 19:43:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 19:44:00 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 20:26:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89
+[16-Jul-2024 20:27:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 20:27:38 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/user/cart.view.php on line 11
+[16-Jul-2024 20:27:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 104
+[16-Jul-2024 20:29:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: timeOrder in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 104
+[16-Jul-2024 20:30:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php on line 32
+[16-Jul-2024 20:30:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND del_shift=0' at line 1 in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/models/pdo.php:79
+Stack trace:
+#0 /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/models/pdo.php(79): PDOStatement->execute(Array)
+#1 /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/models/user/userModel.php(153): pdo_query_one('SELECT * FROM s...')
+#2 /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/controllers/admin/orderController.php(32): getShiftById(NULL)
+#3 /home/ngocphu1/tammyfood.ngocphuong.name.vn/index.php(106): include_once('/home/ngocphu1/...')
+#4 {main}
+  thrown in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/models/pdo.php on line 79
+[16-Jul-2024 20:31:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/ngocphu1/tammyfood.ngocphuong.name.vn/app/views/admin/ordertoday.view.php on line 89

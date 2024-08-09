@@ -1,0 +1,12 @@
+<?php
+if(isset($_POST['save-addon-categories-btn'])){
+    updateAddonCategories($_POST['name_addon_categories'],$_POST['id_addon_category']);
+}
+if(isset($_POST['add-addon-categories-btn'])){
+    addAddonCategories($_POST['name_addon_categories']);
+}
+if(isset($_GET['del'])){
+    delAddonCategories($_GET['del']);
+}
+$getAllAddonCategories=getAllAddonCategories();
+include_once("app/views/admin/addoncate.view.php");

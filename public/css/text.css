@@ -1,0 +1,54 @@
+.title {
+  color: black;
+}
+
+.footer-text {
+  color: black;
+}
+
+.button-web {}
+
+
+@media screen and (max-width: 575.98px) {
+  body {
+    padding: 10px;
+  }
+
+  .title {
+    font-size: 20px;
+  }
+}
+
+
+/* @media screen and (min-width: 576px) and (max-width: 767.98px) {
+    body {
+      font-size: 16px;
+      padding: 15px;
+    }
+    .container {
+      width: 100%;
+      padding: 0 20px;
+    }
+    .navbar {
+      font-size: 16px;
+    }
+    .header, .footer {
+      text-align: center;
+    }
+  }
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+    body {
+      font-size: 18px;
+      padding: 20px;
+    }
+    .container {
+      width: 90%;
+      padding: 0 25px;
+    }
+    .navbar {
+      font-size: 18px;
+    }
+    .header, .footer {
+      text-align: center;
+    }
+  } */
